@@ -1,0 +1,30 @@
+* {
+	list-style-type: none;
+	overflow: scroll;
+	margin: 0;
+	padding: 0;
+}
+
+#chatroom {
+	border: 1px solid black;
+	width: 100%;
+	min-height: 10%;
+	max-height: 50%;
+}
+
+/*.message_text {
+	color: blue;
+}
+
+.author {
+	color: red;
+}
+
+#new_message input{
+	width: 100%;
+}*/
+
+/*#user_table,
+#conversation_board {
+	display: inline-block;
+}*/
